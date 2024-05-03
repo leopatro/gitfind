@@ -1,0 +1,21 @@
+
+.item-list {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 24px 0;
+}
+
+.item-list strong {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #539BF5;
+    font-size: 28px;
+    margin: 24px 0;
+}
+
+.item-list p {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #999999;
+    font-size: 18px;
+    margin-top: 24px;
+}
+
